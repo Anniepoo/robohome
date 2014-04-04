@@ -1,0 +1,2 @@
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasicsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\docs\robohome\interfaces\kinectstream\XnaBasicsContent\obj\x86\Debug\ResolveAssemblyReference.cache

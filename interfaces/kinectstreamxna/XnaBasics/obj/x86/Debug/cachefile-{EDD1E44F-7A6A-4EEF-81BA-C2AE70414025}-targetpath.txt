@@ -1,0 +1,7 @@
+Content\Segoe16.xnb
+Content\KinectColorVisualizer.xnb
+Content\KinectDepthVisualizer.xnb
+Content\ChooserBackground.xnb
+Content\Joint.xnb
+Content\Bone.xnb
+Content\Header.xnb

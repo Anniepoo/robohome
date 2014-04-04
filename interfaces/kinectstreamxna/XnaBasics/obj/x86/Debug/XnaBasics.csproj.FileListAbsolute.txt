@@ -1,0 +1,26 @@
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\bin\x86\Debug\Content\Segoe16.xnb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\bin\x86\Debug\Content\KinectColorVisualizer.xnb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\bin\x86\Debug\Content\KinectDepthVisualizer.xnb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\bin\x86\Debug\Content\ChooserBackground.xnb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\bin\x86\Debug\Content\Joint.xnb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\bin\x86\Debug\Content\Bone.xnb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\bin\x86\Debug\Content\Header.xnb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\bin\x86\Debug\XnaBasics.exe
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\bin\x86\Debug\XnaBasics.pdb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\obj\x86\Debug\XnaBasics.exe
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.6.0\Samples\C#\XnaBasics\XnaBasics\obj\x86\Debug\XnaBasics.pdb
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\bin\x86\Debug\Content\Segoe16.xnb
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\bin\x86\Debug\Content\KinectColorVisualizer.xnb
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\bin\x86\Debug\Content\KinectDepthVisualizer.xnb
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\bin\x86\Debug\Content\ChooserBackground.xnb
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\bin\x86\Debug\Content\Joint.xnb
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\bin\x86\Debug\Content\Bone.xnb
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\bin\x86\Debug\Content\Header.xnb
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\bin\x86\Debug\XnaBasics.exe
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\bin\x86\Debug\XnaBasics.pdb
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\obj\x86\Debug\XnaBasics.exe
+C:\docs\robohome\interfaces\kinectstream\XnaBasics\obj\x86\Debug\XnaBasics.pdb
